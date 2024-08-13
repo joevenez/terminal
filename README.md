@@ -117,6 +117,10 @@ Make the VSCode editor font the same:
 
 ### Settings
 
+#### Iterm
+
+For iterm settings we simply need to import the profile `Default.json` and the color theme `Tokyonight-storm``
+
 ### Helpful Links/ Documentation
 
 PowerLevel10K Git symbols: https://github.com/romkatv/powerlevel10k/blob/master/README.md#what-do-different-symbols-in-git-status-mean
